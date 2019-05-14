@@ -2,7 +2,7 @@
 
 Publication
 --
-Code accompanying the paper *Label Distribution Learning with Label Correlations via Low-Rank Approxlmation*
+Code accompanying the paper **Label Distribution Learning with Label Correlations via Low-Rank Approxlmation**
 
 DataSet
 --
