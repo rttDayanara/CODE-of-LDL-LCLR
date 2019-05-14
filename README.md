@@ -1,5 +1,9 @@
 # CODE-of-LDL-LCLR
 
+Publication
+--
+Code accompanying the paper *Label Distribution Learning with Label Correlations via Low-Rank Approxlmation*
+
 DataSet
 --
 The group of PALM provides some LDL data sets. http://palm.seu.edu.cn/xgeng/LDL/index.htm
